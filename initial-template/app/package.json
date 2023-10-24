@@ -16,5 +16,8 @@
   "license": "ISC",
   "devDependencies": {
     "tar": "^6.2.0"
+  },
+  "dependencies": {
+    "ntl": "^5.1.0"
   }
 }
